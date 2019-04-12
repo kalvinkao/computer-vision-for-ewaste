@@ -1,2 +1,4 @@
 Namespace(batch_size=1, dataset='coco', disable_hybridization=False, epochs=26, gpus='', log_interval=100, lr=0.00125, lr_decay=0.1, lr_decay_epoch='17,23', lr_warmup=-1, mixup=False, momentum=0.9, network='resnet101_v1d', no_mixup_epochs=20, norm_layer=None, num_workers=1, resume='', save_interval=1, save_prefix='faster_rcnn_resnet101_v1d_coco', seed=233, start_epoch=0, static_alloc=False, use_fpn=False, val_interval=1, verbose=False, wd=0.0001)
 Start training from [Epoch 0]
+Namespace(batch_size=1, dataset='coco', disable_hybridization=False, epochs=26, gpus='', log_interval=100, lr=0.00125, lr_decay=0.1, lr_decay_epoch='17,23', lr_warmup=-1, mixup=False, momentum=0.9, network='resnet101_v1d', no_mixup_epochs=20, norm_layer=None, num_workers=4, resume='', save_interval=1, save_prefix='faster_rcnn_resnet101_v1d_coco', seed=233, start_epoch=0, static_alloc=False, use_fpn=False, val_interval=1, verbose=False, wd=0.0001)
+Start training from [Epoch 0]

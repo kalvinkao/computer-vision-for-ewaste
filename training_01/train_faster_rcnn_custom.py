@@ -203,9 +203,9 @@ def get_dataset(dataset, args):
     elif dataset.lower() == 'coco':
         #train_dataset = gdata.COCODetection(splits='instances_train2017', use_crowd=False)
         #val_dataset = gdata.COCODetection(splits='instances_val2017', skip_empty=False)
-        data_path = "/home/ubuntu/data/"
-        inst_train_path = "/home/ubuntu/data/annotations/instances_train2017"
-        inst_val_path = "/home/ubuntu/data/annotations/instances_val2017"
+        data_path = "/mnt/home/ubuntu/data/"
+        inst_train_path = "/mnt/home/ubuntu/data/annotations/instances_train2017"
+        inst_val_path = "/mnt/home/ubuntu/data/annotations/instances_val2017"
         train_dataset = gdata.COCODetection(root=data_path, splits=[inst_train_path], use_crowd=False)
         val_dataset = gdata.COCODetection(root=data_path, splits=[inst_val_path], skip_empty=False)
         val_metric = COCODetectionMetric(val_dataset, args.save_prefix + '_eval', cleanup=True)
