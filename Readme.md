@@ -19,3 +19,5 @@ To be added:
 ## Toolkits
  - This project leveraged the [GluonCV](https://gluon-cv.mxnet.io/index.html) deep learning toolkit for computer vision.
  - GluonCV is built upon the popular [Apache MXNet](http://mxnet.incubator.apache.org/) deep learning library.
+ 
+## [Project Overview](https://docs.google.com/presentation/d/1Fi1OmfEWdFu1Ia78LGhylEfKgvrozeYX9Z_VCgd1gjE/edit?usp=sharing)
