@@ -14,8 +14,8 @@ To be added:
  - lessons learned / suggestions for improvements and future development
  
 ## Data
-This project used the 2017 COCO (Common Objects in Context) training and validation data. [link](http://cocodataset.org/#download)
+ - This project used the 2017 COCO (Common Objects in Context) training and validation [data](http://cocodataset.org/#download).
 
 ## Toolkits
-This project leveraged the GluonCV deep learning toolkit for computer vision. [link](https://gluon-cv.mxnet.io/index.html)
-GluonCV is built upon the popular Apache MXNet deep learning library. [link](http://mxnet.incubator.apache.org/)
+ - This project leveraged the [GluonCV](https://gluon-cv.mxnet.io/index.html) deep learning toolkit for computer vision.
+ - GluonCV is built upon the popular [Apache MXNet](http://mxnet.incubator.apache.org/) deep learning library.
