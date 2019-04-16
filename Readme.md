@@ -1,5 +1,7 @@
 # Computer Vision Model for my W210 Project
 
+**[Project Overview (updated with final model performance evaluation)](https://docs.google.com/presentation/d/1Fi1OmfEWdFu1Ia78LGhylEfKgvrozeYX9Z_VCgd1gjE/edit?usp=sharing)**
+
 ### This repo contains my code for:
  - exploring the 2017 COCO training data,
  - augmenting images,
@@ -20,4 +22,3 @@ To be added:
  - This project leveraged the [GluonCV](https://gluon-cv.mxnet.io/index.html) deep learning toolkit for computer vision.
  - GluonCV is built upon the popular [Apache MXNet](http://mxnet.incubator.apache.org/) deep learning library.
  
-## [Project Overview](https://docs.google.com/presentation/d/1Fi1OmfEWdFu1Ia78LGhylEfKgvrozeYX9Z_VCgd1gjE/edit?usp=sharing)
