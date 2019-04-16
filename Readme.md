@@ -28,4 +28,6 @@ To be added:
     * AMI ID: ami-060865e8b5914b4c4
     * Instance Type: p2.xlarge
   - You'll just need to use the python 3 MXNet virtual environment and install GluonCV ('pip install gluoncv --upgrade').
+  
+  **If you have any questions, comments, or suggestions, you can contact me at kalvin.kao@ischool.berkeley.edu!**
  
