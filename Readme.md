@@ -1,6 +1,6 @@
 # Computer Vision Model for my W210 Project
 
-**[Project Overview (updated with final model performance evaluation)](https://docs.google.com/presentation/d/1Fi1OmfEWdFu1Ia78LGhylEfKgvrozeYX9Z_VCgd1gjE/edit?usp=sharing)**
+**[Project Overview](https://docs.google.com/presentation/d/1Fi1OmfEWdFu1Ia78LGhylEfKgvrozeYX9Z_VCgd1gjE/edit?usp=sharing) (updated with final model performance evaluation)**
 
 ### This repo contains my code for:
  - exploring the 2017 COCO training data,
