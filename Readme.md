@@ -11,7 +11,7 @@
  
 #### CLEAN UP IS IN PROGRESS!
 To be added:
- - instructions for use (including suggested base deep learning AMIs and EC2 instance types),
+ - instructions for use,
  - a public AMI for this project in particular, and
  - lessons learned / suggestions for improvements and future development
  
@@ -21,4 +21,11 @@ To be added:
 ## Toolkits
  - This project leveraged the [GluonCV](https://gluon-cv.mxnet.io/index.html) deep learning toolkit for computer vision.
  - GluonCV is built upon the popular [Apache MXNet](http://mxnet.incubator.apache.org/) deep learning library.
+ 
+ ## Training Environment
+  - To train any of the GluonCV models on an Amazon EC2 instance, I recommend the following:
+    * AMI Name: Deep Learning AMI (Ubuntu) Version 22.0
+    * AMI ID: ami-060865e8b5914b4c4
+    * Instance Type: p2.xlarge
+  - You'll just need to use the python 3 MXNet virtual environment and install GluonCV ('pip install gluoncv --upgrade').
  
